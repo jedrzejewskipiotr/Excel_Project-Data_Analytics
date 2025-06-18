@@ -1,15 +1,15 @@
   # 📊 Excel_Project-Data_Analytics
 
-Welcome to my project – a showcase of my knowledge, skills, and practical application of Excel as a data analysis tool.  
+Welcome to my project – a showcase of my knowledge, skills and practical application of Excel as a data analysis tool.  
 The project is divided into two parts:
 
 - 📈 [Salary Dashboard](/Project_1-Salary_Dashboard)  
 - 🧠 [Skill Analysis](/Project_2-Skill_Analysis)
 
-Each part highlights different aspects of data analysis and demonstrates how Excel can be used to explore, clean, and interpret data effectively.
+Each part highlights different aspects of data analysis and demonstrates how Excel can be used to explore, clean and interpret data effectively.
 
 Shoutout to [Luke Barousse](https://github.com/lukebarousse) and [Kelly Adams](https://github.com/kellyjadams) for creating the [Excel Data Analytics Course](https://youtu.be/pCJ15nGFgVg?si=eaVSlBZP-crDsYqO).  
-The [dataset](/Resources/data_jobs_salary_all.xlsx) used in this project was provided by the course creators and contains detailed information on job titles, salaries, locations, and essential skills based on real-world job postings from 2023.  
+The [dataset](/Resources/data_jobs_salary_all.xlsx) used in this project was provided by the course creators and contains detailed information on job titles, salaries, locations and essential skills based on real-world job postings from 2023.  
 
   ## 📈 Salary Dashboard  
 
