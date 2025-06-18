@@ -73,7 +73,7 @@ IF(
 
 📉 Dashboard Implementation
 
-<img src="/Resources/images/1_Salary_Dashboard/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+<img src="/Resources/images/1_Salary_Dashboard/1_Salary_Dashboard_Job_Title.png" width="500" height="500" alt="Salary Dashboard Title">
 
 #### ⏰ Count of Job Schedule Type
 
@@ -90,7 +90,7 @@ IF(
 
 📉 Dashboard Implementation:
 
-<img src="/Resources/images/1_Salary_Dashboard/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+<img src="/Resources/images/1_Salary_Dashboard/1_Salary_Dashboard_Type.png" width="400" height="500" alt="Salary Dashboard Type">
 
 ### ❎ Data Validation
 
