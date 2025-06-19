@@ -1,6 +1,6 @@
   # 📊 Excel_Project-Data_Analytics
 
-Welcome to my project – a showcase of my knowledge, skills and practical application of Excel as a data analysis tool.  
+Welcome to Data Analytics Excel Project – a showcase of my knowledge, skills and practical application of Excel as a data analysis tool.  
 The project is divided into two parts:
 
 - 📈 [Salary Dashboard](/Project_1-Salary_Dashboard)  
